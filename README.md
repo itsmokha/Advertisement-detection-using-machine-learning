@@ -6,4 +6,4 @@ The aim of this project is to create a machine learning model that can classify 
 The most promising model is the SVM model that has been tuned using parameters found using the grid search cross validation. The tuned SVM model had a 71 percent accuracy, which is the highest accuracy among all the models. 
 ## Future plans
 It is possible that, with the help of better algorithms and a dataset with more verbose features, the accuracy could be improved on further, thereby making it viable for use in real-world cases.
-Another feature that coulbe be implemented is a browser plugin to detect ads and block them
+Another feature that could be be implemented is a browser plugin to detect ads and block them
